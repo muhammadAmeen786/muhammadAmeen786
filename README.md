@@ -1,8 +1,9 @@
+<img src="https://getwallpapers.com/wallpaper/full/0/7/3/15280.jpg" align="right" width=700>
 <h1 align="center">Hi 👋, I'm Muhammad Ameen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadameen786&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadameen786" /> </p>
-<img src="https://tse3.explicit.bing.net/th?id=OIP.bPM4x0lRl6k-lL3RfrMFLgHaE8&pid=Api&P=0" align="right" width=400>
+<img src="https://tse1.mm.bing.net/th?id=OIP.IHy04Pnq1U2Li4K-E6LJIQHaE7&pid=Api&P=0" align="right" width=400>
 
 - 🌱 I’m currently learning **React.Js**
 
