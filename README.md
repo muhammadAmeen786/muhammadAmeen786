@@ -1,4 +1,4 @@
-<img src="https://getwallpapers.com/wallpaper/full/0/7/3/15280.jpg" align="right" width=700>
+
 <h1 align="center">Hi 👋, I'm Muhammad Ameen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
