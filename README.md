@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadameen786&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadameen786" /> </p>
+<img src="https://tse3.explicit.bing.net/th?id=OIP.bPM4x0lRl6k-lL3RfrMFLgHaE8&pid=Api&P=0" align="right" width=400>
 
 - 🌱 I’m currently learning **React.Js**
 
