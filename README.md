@@ -12,8 +12,11 @@
 - 🌱 I’m currently learning **React.Js** - 👨‍💻 All of my projects are available
 at
 [https://muhammadameendar.netlify.app/#](https://muhammadameendar.netlify.app/#)
-- 💬 Ask me about **HTML CSS JAVASCRIPT** - 📫 How to reach me
-**mohdameeendar@gmail.com** - ⚡ Fun fact **People think I'm Boring.**
+<br>
+- 💬 Ask me about **HTML CSS JAVASCRIPT** 
+- 📫 How to reach me
+**mohdameeendar@gmail.com** -
+⚡ Fun fact **People think I'm Boring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
