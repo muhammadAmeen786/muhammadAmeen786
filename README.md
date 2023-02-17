@@ -19,7 +19,7 @@ at
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/muhammad ameen](https://www.linkedin.com/in/muhammad-ameen-dar)" target="blank"
+  <a href="https://linkedin.com/in/muhammad ameen" target="blank"
     ><img
       align="center"
       src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg"
